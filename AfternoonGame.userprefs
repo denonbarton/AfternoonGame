@@ -1,29 +1,16 @@
 ﻿<Properties StartupItem="AfternoonGame/AfternoonGame.csproj" RefactoringSettings.EnableRefactorings="True">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="AfternoonGame/Controller/Game1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AfternoonGame/Controller/SpaceGame.cs">
     <Files>
-      <File FileName="AfternoonGame/Controller/Game1.cs" Line="73" Column="4" />
-      <File FileName="AfternoonGame/Model/Player.cs" Line="9" Column="16" />
-      <File FileName="AfternoonGame/Controller/SpaceGame.cs" Line="11" Column="4" />
-      <File FileName="AfternoonGame/View/EmptyClass.cs" Line="147" Column="1" />
+      <File FileName="AfternoonGame/Controller/SpaceGame.cs" Line="563" Column="5" />
+      <File FileName="AfternoonGame/Model/Player.cs" Line="12" Column="26" />
+      <File FileName="AfternoonGame/View/Animation.cs" Line="1" Column="1" />
+      <File FileName="AfternoonGame/Controller/Program.cs" Line="31" Column="1" />
+      <File FileName="AfternoonGame/View/ParallaxingBackground.cs" Line="1" Column="1" />
+      <File FileName="AfternoonGame/Model/Enemy.cs" Line="92" Column="3" />
+      <File FileName="AfternoonGame/Model/Cat.cs" Line="81" Column="16" />
+      <File FileName="AfternoonGame/Model/Projectile.cs" Line="53" Column="15" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="AfternoonGame" expanded="True">
-            <Node name="AfternoonGame" expanded="True">
-              <Node name="Content" expanded="True" />
-              <Node name="Controller" expanded="True">
-                <Node name="Game1.cs" selected="True" />
-              </Node>
-              <Node name="Model" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="View" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
